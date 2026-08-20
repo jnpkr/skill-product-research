@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Research"
+  short_description: "Research and compare products using stated criteria"
+  default_prompt: "Use $product-research to find and compare products for my requirements."
